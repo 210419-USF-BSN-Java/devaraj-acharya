@@ -43,15 +43,15 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 - A Manager can view reimbursement requests from a single Employee
 
 ### Technology Used ###
-Java, Backend Programming Language
-HTML + CSS + JavaScript, Frontend Programming Languages
-Apache Maven, Build Automation Tool and Package Manager
-Apache Tomcat + Java Servlets, Server Environment
-Java Database Connectivity, Database Interactivity API
-PostgreSQL, Relational Database Management System
-AWS RDS, Cloud Based Distributed Relational Database Service
-JUnit, Mockito, Unit Testing Framework
-Log4j, Logging Utility
+Java, Backend Programming Language </br>
+HTML + CSS + JavaScript, Frontend Programming Languages </br>
+Apache Maven, Build Automation Tool and Package Manager </br>
+Apache Tomcat + Java Servlets, Server Environment </br>
+Java Database Connectivity, Database Interactivity API </br>
+PostgreSQL, Relational Database Management System </br>
+AWS RDS, Cloud Based Distributed Relational Database Service </br>
+JUnit, Mockito, Unit Testing Framework </br>
+Log4j, Logging Utility </br>
 
 ### Notes and ToDo ###
 There is an upload receipt functionality that hasn't been implemented, which was considered a stretch goal.
